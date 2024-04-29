@@ -9,8 +9,7 @@ int main()
     cin>> a;
     cout << "Wpisz b: " << endl;
     cin >> b;
-    wynik=a*b;
-    cout << "Wynik to:" << wynik <<endl;
+    cout << "Wynik:" << a*b <<endl;
 
     return 0;
 
